@@ -16,3 +16,4 @@
 [2026-05-15] Analytics dashboard notes - May data science activity
 [2026-05-16] Insights replication - May data science activity
 [2026-05-17] Visualization refresh - May data science activity
+[2026-05-18] Risk scoring validation - May data science activity
