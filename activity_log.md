@@ -24,3 +24,4 @@
 [2026-05-23] Data quality clean-up - May data science activity
 [2026-05-24] Modeling prep pass - May data science activity
 [2026-05-25] Analytics dashboard notes - May data science activity
+[2026-05-26] Insights replication - May data science activity
